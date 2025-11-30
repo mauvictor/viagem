@@ -1,6 +1,6 @@
 # Aplicação "Viagem"
 
-Uma Single Page Application simples que mostra quantos dias, horas, minutos e segundos faltam para **13/12/2025**.
+Uma Single Page Application simples que mostra quantos dias, horas, minutos e segundos faltam para um dia específico.
 
 ## 🚀 Como usar
 
@@ -32,4 +32,4 @@ https://seu-usuario.github.io/viagem
 
 ## ✈️ Objetivo
 
-Criado para acompanhar a contagem regressiva até o dia da viagem em 13/12/2025.
+Criado para acompanhar a contagem regressiva até o dia da viagem.
