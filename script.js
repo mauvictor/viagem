@@ -1,6 +1,6 @@
 function atualizar() {
   const agora = new Date();
-  const destino = new Date("2026-12-7T00:00:00");
+  const destino = new Date("2026-12-07T00:00:00");
 
   // Zera hora de hoje para comparar apenas datas completas
   const hojeZerado = new Date(agora.getFullYear(), agora.getMonth(), agora.getDate());
